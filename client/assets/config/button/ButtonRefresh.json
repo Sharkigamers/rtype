@@ -1,0 +1,20 @@
+{
+    "MagicKey": "333LOPES333",
+    "TexturePath": "./client/assets/sprite/button_close.png",
+    "MakeSmooth": 1,
+    "SpriteScaleX": 0.50,
+    "SpriteScaleY": 0.50,
+    "SpritePositionX": 850,
+    "SpritePositionY": 950,
+    "TextureLeft": 0,
+    "TextureTop": 0,
+    "TextureWidth": 468,
+    "TextureHeight": 197,
+    "FontPath": "./client/assets/fonts/spacebar/SPACEBAR.ttf",
+    "Text": "REFRESH",
+    "TextSize": 25,
+    "TextColor": 1,
+    "TextPositionX": 890,
+    "TextPositionY": 990,
+    "IsRender" : 1
+}

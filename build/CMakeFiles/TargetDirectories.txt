@@ -1,0 +1,5 @@
+/home/sharkigamers/delivery/Semester_5/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/build/CMakeFiles/rebuild_cache.dir
+/home/sharkigamers/delivery/Semester_5/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/build/CMakeFiles/edit_cache.dir
+/home/sharkigamers/delivery/Semester_5/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/build/CMakeFiles/unit_test.dir
+/home/sharkigamers/delivery/Semester_5/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/build/CMakeFiles/r-type_server.dir
+/home/sharkigamers/delivery/Semester_5/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/build/CMakeFiles/r-type_client.dir

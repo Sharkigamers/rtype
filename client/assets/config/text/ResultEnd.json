@@ -1,0 +1,10 @@
+{
+    "MagicKey": "333LOPES333",
+    "Text": "Result",
+    "FontPath": "./client/assets/fonts/spacebar/SPACEBAR.ttf",
+    "TextSize": 70,
+    "TextColor": 1,
+    "TextPositionX": 450,
+    "TextPositionY": 200,
+    "IsRender" : 1
+}

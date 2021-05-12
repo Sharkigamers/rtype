@@ -1,0 +1,39 @@
+{
+    "MagicKey": "333LOPES333",
+    
+    "Text": "myText",
+    
+    "FontPath": "path/to/file",
+    
+    "TextSize": 0,
+    
+    "TextLineSpace": 0,
+    
+    "TextCharacterSpace": 0,
+    
+    "TextStyle": 0,
+    
+    "TextColor" : 0,
+    
+    "TextPositionX": 0,
+    
+    "TextPositionY": 0,
+    
+    "TextAngularRotationX": 0,
+    
+    "TextAngularRotationY": 0,
+    
+    "TextScaleX": 0,
+    
+    "TextScaleY": 0,
+    
+    "TextOriginX": 0,
+    
+    "TextOriginY": 0,
+    
+    "TextMoving": 0,
+    
+    "TextRotating": 0,
+    
+    "TextScaling": 0
+}

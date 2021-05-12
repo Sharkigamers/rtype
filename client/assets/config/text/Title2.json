@@ -1,0 +1,10 @@
+{
+    "MagicKey": "333LOPES333",
+    "Text": "YPE",
+    "FontPath": "./client/assets/fonts/amazdoom/AmazDooMRight.ttf",
+    "TextSize": 120,
+    "TextColor": 1,
+    "TextPositionX": 950,
+    "TextPositionY": 200,
+    "IsRender" : 1
+}

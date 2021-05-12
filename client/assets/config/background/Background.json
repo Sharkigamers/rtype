@@ -1,0 +1,16 @@
+{
+    "MagicKey": "333LOPES333",
+    "TexturePath": "./client/assets/sprite/background.png",
+    "SpriteScaleX": 1,
+    "SpriteScaleY": 1,
+    "SpritePositionX": 0,
+    "SpritePositionY": 0,
+    "TextureLeft": 0,
+    "TextureTop": 0,
+    "TextureWidth": 1920,
+    "TextureHeight": 1080,
+    "AnimationWidthLimit" : 1920,
+    "AnimationOffset" : 1,
+    "AnimationSecond" : 0.001,
+    "IsRender" : 1
+}

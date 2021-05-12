@@ -1,0 +1,15 @@
+{
+    "MagicKey": "333LOPES333",
+    "TexturePath": "./client/assets/sprite/listRoom.png",
+    "MakeSmooth": 1,
+    "SpriteScaleX": 0.75,
+    "SpriteScaleY": 0.75,
+    "TextureLeft": 0,
+    "TextureTop": 0,
+    "TextureWidth": 548,
+    "TextureHeight": 230,
+    "FontPath": "./client/assets/fonts/amazdoom/AmazDooMLeft.ttf",
+    "TextSize": 50,
+    "TextColor": 1,
+    "IsRender" : 1
+}

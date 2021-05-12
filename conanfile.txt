@@ -1,0 +1,11 @@
+[requires]
+sfml/2.5.1@bincrafters/stable
+boost/1.71.0@conan/stable
+
+[generators]
+cmake
+cmake_find_package
+cmake_paths
+
+[options]
+sfml:shared=True

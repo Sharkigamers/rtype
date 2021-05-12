@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Imonster.hpp
+string
+-
+
+/home/niels/Cpool/OOP/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/monsters/PutridLopes/PutridLopes.cpp
+PutridLopes.hpp
+/home/niels/Cpool/OOP/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/monsters/PutridLopes/PutridLopes.hpp
+
+/home/niels/Cpool/OOP/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/monsters/PutridLopes/PutridLopes.hpp
+Imonster.hpp
+/home/niels/Cpool/OOP/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/monsters/PutridLopes/Imonster.hpp
+
+/home/niels/Cpool/OOP/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/monsters/PutridLopes/entryPoint.cpp
+Imonster.hpp
+/home/niels/Cpool/OOP/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/monsters/PutridLopes/Imonster.hpp
+PutridLopes.hpp
+/home/niels/Cpool/OOP/B-CPP-501-PAR-5-1-rtype-emmanuel.blineau/monsters/PutridLopes/PutridLopes.hpp
+

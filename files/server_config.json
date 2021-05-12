@@ -1,0 +1,7 @@
+{
+    "PORT": 42424,
+    "PREFER_IP_V4": true,
+    "LOG": {
+        "DEBUG_PATH": "debug.log"
+    }
+}
